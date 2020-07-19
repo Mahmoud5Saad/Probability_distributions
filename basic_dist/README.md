@@ -1,0 +1,1 @@
+#this package calculates essential properties of Gaussian and Binomial distributions
